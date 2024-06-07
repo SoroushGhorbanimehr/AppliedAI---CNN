@@ -29,14 +29,17 @@ pip install numpy pandas matplotlib seaborn scikit-learn pillow tqdm graphviz go
 1- Open the provided code in Google Colab.
 2- Mount your Google Drive in Colab using the following command:
 
+```
 from google.colab import drive
 drive.mount('/content/drive')
+```
 
 3- Ensure the paths in the code point to the correct locations in your Google Drive. For example:
 
+```
 data_dir = '/content/drive/MyDrive/Your_Dataset_Path/'
 output_dir = '/content/drive/MyDrive/Your_Output_Path/'
-
+```
 
 4- Run all cells in the Colab notebook. This will perform the following steps:
 
