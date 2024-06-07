@@ -63,7 +63,7 @@ To obtain the dataset:
 
 1- Go to the MIT CSAIL Places dataset download page(http://places2.csail.mit.edu/download.html).
 
-2- Select the subset of the dataset that includes the desired categories (Airport, School, Hospital, Bakery, Bowling).
+2- Select the subset of the dataset that includes the desired categories (Airport, Classroom, Music studio, Bakery, Bowling).
 
 3- Download the dataset and upload it to your Google Drive.
 
