@@ -4,6 +4,7 @@ This project is a comparative study of scene classification using Decision Trees
 ## Requirements
 To run this project, you need the following libraries:
 
+```
 1- Python 3.x
 2- numpy
 3- pandas
@@ -13,7 +14,7 @@ To run this project, you need the following libraries:
 7- Pillow
 8- graphviz
 9- tqdm
-
+```
 
 You can install the required libraries using the following command:
 ```
