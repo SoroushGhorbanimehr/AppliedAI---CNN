@@ -50,6 +50,16 @@ output_dir = '/content/drive/MyDrive/Your_Output_Path/'
 
 The source code is available in the IPYNB file, which includes the implementation of supervised and semi-supervised Decision Tree models.
 
+## Dataset
+
+The dataset used in this project is the Places dataset provided by MIT CSAIL.
+
+To obtain the dataset:
+
+1- Go to the MIT CSAIL Places dataset download page(http://places2.csail.mit.edu/download.html).
+2- Select the subset of the dataset that includes the desired categories (Airport, School, Hospital, Bakery, Bowling).
+3- Download the dataset and upload it to your Google Drive.
+4- Update the paths in the provided script to point to your Google Drive directory.
 
 
 
