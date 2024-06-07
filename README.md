@@ -16,8 +16,9 @@ To run this project, you need the following libraries:
 
 
 You can install the required libraries using the following command:
-
+```
 pip install numpy pandas matplotlib seaborn scikit-learn pillow tqdm graphviz google-colab
+```
 
 ## Instructions
 ### Data Preparation
@@ -57,8 +58,11 @@ The dataset used in this project is the Places dataset provided by MIT CSAIL.
 To obtain the dataset:
 
 1- Go to the MIT CSAIL Places dataset download page(http://places2.csail.mit.edu/download.html).
+
 2- Select the subset of the dataset that includes the desired categories (Airport, School, Hospital, Bakery, Bowling).
+
 3- Download the dataset and upload it to your Google Drive.
+
 4- Update the paths in the provided script to point to your Google Drive directory.
 
 
