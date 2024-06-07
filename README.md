@@ -1,5 +1,5 @@
 # Scene Classification Using Decision Trees
-This project is a comparative study of scene classification using Decision Trees. The aim is to classify scenes into five distinct categories: Airport, School, Hospital, Bakery, and Bowling using the Places dataset provided by MIT CSAIL. The study implements and evaluates three models: Supervised Decision Tree, Semi-supervised Decision Tree, and an iterative semi-supervised Decision Tree. The performance of these models is evaluated using metrics such as accuracy, precision, recall, and F1 score.
+This project is a comparative study of scene classification using Decision Trees. The aim is to classify scenes into five distinct categories: Airport, Classroom, Music studio , Bakery, and Bowling using the Places dataset provided by MIT CSAIL. The study implements and evaluates three models: Supervised Decision Tree, Semi-supervised Decision Tree, and an iterative semi-supervised Decision Tree. The performance of these models is evaluated using metrics such as accuracy, precision, recall, and F1 score.
 
 ## Requirements
 To run this project, you need the following libraries:
