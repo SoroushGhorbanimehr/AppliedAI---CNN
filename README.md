@@ -103,9 +103,9 @@ The project then advances to CNN models to improve classification accuracy:
     -   Evaluate the models on the validation set after each epoch.
     -   Save the best models based on validation accuracy.
 
-### Testing the Pre-trained Model
+### Testing the trained Model
 
-1.  **Load the Pre-trained Model**:
+1.  **Load the trained CNN Model weights**:
     
     -   Load the saved model weights from the specified file paths.
 2.  **Run Inference on Test Dataset**:
@@ -114,10 +114,10 @@ The project then advances to CNN models to improve classification accuracy:
     -   Plot confusion matrix and classification metrics such as precision, recall, and F1-score for each class.
 
 
-## Instructions to Run the Pre-trained Model on a Sample Test Image
+## Instructions to Run the trained weights of our Model on a Sample Test Image
 
 1.  **Load the Model and Make Predictions**:
-    -   Load the pre-trained model and make predictions on a single test image.
+    -   Load the weights of the model and make predictions on a single test image.
     -   Transform the image to the required input dimensions and normalize it.
     -   Print the predicted class for the given test image.
 
